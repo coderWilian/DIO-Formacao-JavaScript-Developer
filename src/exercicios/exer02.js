@@ -4,7 +4,7 @@
  * Números utilizados = [5, 3, 4, 1, 10, 8]
  */
 
-const { gets, print } = require("./funcoes-auxiliares")
+const { gets, print } = require("./funcoes-auxiliares2")
 
 const n = gets()
 

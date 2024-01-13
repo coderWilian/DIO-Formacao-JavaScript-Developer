@@ -6,7 +6,7 @@
  */
 
 
-const { gets, print } = require("./funcoes-auxiliares")
+const { gets, print } = require("./funcoes-auxiliares1")
 
 let average = gets()
 
